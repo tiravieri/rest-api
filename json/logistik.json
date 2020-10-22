@@ -1,0 +1,27 @@
+{
+  "logistik":  [
+        {
+            "kode_logistik"     :   "1",
+            "nama"              :   "Ruang ku1.02.03",
+            "status"            :   "tersedia",
+            "tipe"              :   "Ruangan",
+            "foto"              :   "ruang1.jpg"
+        },
+
+        {
+            "kode_logistik"     :   "2",
+            "nama"              :   "Ruang ku1.03.10",
+            "status"            :   "tersedia",
+            "tipe"              :   "Ruangan",
+            "foto"              :   "ruang10.jpg"
+        },
+
+        {
+            "kode_logistik"     :   "3",
+            "nama"              :   "Ruang ku1.02.04",
+            "status"            :   "tersedia",
+            "tipe"              :   "Ruangan",
+            "foto"              :   "ruang4.jpg"
+        }
+    ]
+}
